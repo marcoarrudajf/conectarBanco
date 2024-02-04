@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\bin\Debug\net6.0\ConectarBD.exe
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\bin\Debug\net6.0\ConectarBD.deps.json
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\bin\Debug\net6.0\ConectarBD.runtimeconfig.json
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\bin\Debug\net6.0\ConectarBD.dll
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\bin\Debug\net6.0\ConectarBD.pdb
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\obj\Debug\net6.0\ConectarBD.csproj.AssemblyReference.cache
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\obj\Debug\net6.0\ConectarBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\obj\Debug\net6.0\ConectarBD.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\obj\Debug\net6.0\ConectarBD.AssemblyInfo.cs
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\obj\Debug\net6.0\ConectarBD.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\obj\Debug\net6.0\ConectarBD.dll
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\obj\Debug\net6.0\refint\ConectarBD.dll
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\obj\Debug\net6.0\ConectarBD.pdb
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\obj\Debug\net6.0\ConectarBD.genruntimeconfig.cache
+C:\Users\Marco\Documents\Treinamento2024\ConectarBD\ConectarBD\obj\Debug\net6.0\ref\ConectarBD.dll
