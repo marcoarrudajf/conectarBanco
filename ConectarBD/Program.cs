@@ -3,8 +3,9 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Começando a criar");
+        {   
+            ConectarBDados conexaoBD = new ConectarBDados();
+            conexaoBD.conectarBDados();
         }
     }
 }
